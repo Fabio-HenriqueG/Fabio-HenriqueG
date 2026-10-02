@@ -5,7 +5,7 @@ Meu nome é Fábio Henrique, tenho 17 anos, e atualmente, estou no meu último a
 
 #### [StudyFLow](https://github.com/Fabio-HenriqueG/StudyFlow.git)
 
-Um assistente de estudos, com foco em estudantes do ensino médio/superior, conta com ferramentas completas, que proporcionam maior organização nos estudos
+Um assistente de estudos que estou desenvolvendo como meu trabalho de conclusão de curso, com foco em estudantes do ensino médio/superior, conta com ferramentas completas, que proporcionam maior organização nos estudos
 
 
 
